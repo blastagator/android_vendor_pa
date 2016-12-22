@@ -1,7 +1,7 @@
 [
     {
         "remote":       "github",
-        "repository":   "GalaticStryder/device_lge_d800",
+        "repository":   "blastagator/cm_device_lge_d800",
         "target_path":  "device/lge/d800",
         "revision":     "nougat-caf"
     },
